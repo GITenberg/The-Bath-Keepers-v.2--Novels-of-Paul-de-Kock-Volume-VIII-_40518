@@ -1,0 +1,28 @@
+_repo: The-Bath-Keepers-v.2--Novels-of-Paul-de-Kock-Volume-VIII-_40518
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40518-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kock, Paul de
+    alias: Kock, Charles Paul de
+    birthdate: 1793
+    deathdate: 1871
+    gutenberg_agent_id: '34988'
+    url: http://www.gutenberg.org/2009/agents/34988
+description: ''
+gutenberg_issued: '2012-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+title: "The Bath Keepers; Or, Paris in Those Days, v.2\r\n(Novels of Paul de Kock\
+  \ Volume VIII)"
+url: http://www.gutenberg.org/ebooks/40518
